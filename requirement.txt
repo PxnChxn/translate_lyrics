@@ -1,6 +1,7 @@
 streamlit
 openai
 pythainlp
+pythainlp.corpus
 nltk
 spacy
 pandas

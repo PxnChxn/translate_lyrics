@@ -1,6 +1,6 @@
 streamlit
 openai
-pythainlp
+pythainlp==3.0.9
 nltk
 spacy
 pandas

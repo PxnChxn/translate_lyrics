@@ -8,3 +8,5 @@ openpyxl
 wordcloud
 matplotlib
 langdetect
+spacy[transformers]
+en-core-web-sm

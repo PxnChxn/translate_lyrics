@@ -16,6 +16,8 @@ from io import BytesIO
 from langdetect import detect
 import spacy
 
+download("en_core_web_sm")
+
 nlp = spacy.load("en_core_web_sm")
 
 # Function to call OpenAI API for translation

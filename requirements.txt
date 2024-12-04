@@ -1,6 +1,6 @@
 streamlit
 openai
-git+https://github.com/PyThaiNLP/pythainlp.git
+pythainlp
 nltk
 spacy
 pandas
